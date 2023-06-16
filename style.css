@@ -1,0 +1,40 @@
+body
+{
+    background-image: url(img.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.hi
+{
+    width: 500px;
+    height: 300px;
+    border: 4px solid white;
+    margin-top: 190px;
+    margin-left: 310px;
+    background-color:white;
+    box-shadow: 6px 6px 6px 6px orange;
+}
+#Reset
+{
+    width: 65px;
+    height: 30px;
+    margin: 50px;
+    background-color:rgb(121, 175, 156);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#click
+{
+    width: 65px;
+    height: 30px;
+    margin: 50px;
+    background-color:rgb(255, 182, 46);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btt
+{
+    margin-top: -47px;
+}
+#result
+{
+    font-size: 18px;
+}
